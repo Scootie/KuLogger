@@ -1,5 +1,7 @@
 MobileBenchmarkTools
 ==========
+For use cases and examples, please read [USECASES.md](/USECASES.md) The document explains how this program enables a scientific process approach to benchmark specific components within a mobile system.
+
 MobileBenchmarkTools is composed of two discrete programs: BatterySpecs and CPU&BatteryLogging. 
 
 ![batteryinfo](/documentation/batteryspecs.png)
