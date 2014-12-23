@@ -22,7 +22,7 @@ I originally wrote MobileBenchmarkTools in C++, but converted eventually to Auto
 * AutoIt 3.3.x or later
 * Required .au3 libs
   * [BatteryUDF](../../../BatteryUDF/)
-  * [PDH Performance Counter](https://sites.google.com/site/ascend4ntscode/performancecounters-pdh) (CPU&BatteryLogging)
+  * [PDH Performance Counter](https://sites.google.com/site/ascend4ntscode/performancecounters-pdh) (CPU&BatteryLogging), copy is included in this git. Link provided for record of original source/updates.
   * getbattinfo (BatterySpecs)
   * getbattstatus (CPU&BatteryLogging)
 
