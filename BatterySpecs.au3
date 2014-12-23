@@ -1,3 +1,8 @@
+#Region ;**** Directives created by AutoIt3Wrapper_GUI ****
+#AutoIt3Wrapper_UseUpx=n
+#AutoIt3Wrapper_UseX64=n
+#EndRegion ;**** Directives created by AutoIt3Wrapper_GUI ****
+
 ;Copyright 2009 Caleb Ku
 ;Licensed under the Apache License, Version 2.0 (the "License");
 ;you may not use this file except in compliance with the License.
@@ -11,11 +16,7 @@
 ;See the License for the specific language governing permissions and
 ;limitations under the License.
 
-#Region ;**** Directives created by AutoIt3Wrapper_GUI ****
-#AutoIt3Wrapper_icon=..\..\..\Users\Administrator\Downloads\laptop_2.ico
-#AutoIt3Wrapper_UseUpx=n
-#AutoIt3Wrapper_UseX64=n
-#EndRegion ;**** Directives created by AutoIt3Wrapper_GUI ****
+
 #include <getbattinfo.au3>
 
 local $file1 = FileOpen("BatterySpecs.txt", 1);1 = Read mode
