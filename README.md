@@ -17,8 +17,10 @@ The majority of tech editors, journalists, bloggers, etc... utilize consumer bat
 For example, PassMark's battery tool tracks battery life but with a fixed workload imposed by the software. What if I want to test H.264 decoding efficiency, specifically? What about web browsing? What about 2D rendering? Or 3D rendering? Surely Crysis 3 has a different workload than Minecraft. As my needs are wide ranging, the tools I need require flexibility.
 
 I originally wrote MobileBenchmarkTools in C++, but converted eventually to AutoIt for several reasons. Many of my benchmark scripts were already programmed in AutoIt, because it provided a method to quantitatively measure at the user experience level by interacting GUI elements. Additionally, coding in a single language is easier to maitain, and allows for future inoperability if I needed to write more complex programs/scripts.
+
 ## Executable Requirements
 * Windows XP/NT/2000/7/8
+
 ## Requirements for Source
 * AutoIt 3.3.x or later
 * Required .au3 libs
