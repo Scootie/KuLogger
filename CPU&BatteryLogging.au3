@@ -1,3 +1,13 @@
+#Region ;**** Directives created by AutoIt3Wrapper_GUI ****
+#AutoIt3Wrapper_outfile=CPU&BatteryLoggingv1.exe
+#AutoIt3Wrapper_Compression=0
+#AutoIt3Wrapper_UseUpx=n
+#AutoIt3Wrapper_UseX64=n
+#AutoIt3Wrapper_Res_Description=CPU & Battery Information Logging
+#AutoIt3Wrapper_Res_Fileversion=1.0.0.0
+#AutoIt3Wrapper_Res_LegalCopyright=Caleb Ku
+#EndRegion ;**** Directives created by AutoIt3Wrapper_GUI ****
+
 ;Copyright 2009 Caleb Ku
 ;Licensed under the Apache License, Version 2.0 (the "License");
 ;you may not use this file except in compliance with the License.
@@ -11,20 +21,10 @@
 ;See the License for the specific language governing permissions and
 ;limitations under the License.
 
-#Region ;**** Directives created by AutoIt3Wrapper_GUI ****
-#AutoIt3Wrapper_icon=..\..\..\Users\Administrator\Downloads\hardware_icons\ICO\motherboard.ico
-#AutoIt3Wrapper_outfile=CPU&BatteryLoggingv1.exe
-#AutoIt3Wrapper_Compression=0
-#AutoIt3Wrapper_UseUpx=n
-#AutoIt3Wrapper_UseX64=n
-#AutoIt3Wrapper_Res_Description=CPU & Battery Information Logging
-#AutoIt3Wrapper_Res_Fileversion=1.0.0.0
-#AutoIt3Wrapper_Res_LegalCopyright=Andrew C Ku
-#EndRegion ;**** Directives created by AutoIt3Wrapper_GUI ****
 #include <getbattstatus.au3>
 #include <Date.au3>
 #include <_PDH_PerformanceCounters.au3>
-Global Const $headerinfo = "CPU & Battery Logging v1.0, @Copyright Caleb Ku"
+Global Const $headerinfo = "CPU & Battery Logging v1.0, @Copyright 2009 Caleb Ku"
 
 ;   --------------------    HOTKEY FUNCTION & VARIABLE --------------------
 
