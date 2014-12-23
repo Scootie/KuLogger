@@ -23,5 +23,5 @@ CPU Usage
 
 Power Usage
 
-[![Power Usage](/documentation/power_example2.jpg)](http://media.bestofmicro.com/1/D/278689/original/transcodingquality_power.png)
-[![Power Usage](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRAvGQusNCCsivv-8MljHORyIJ7v2KTxk5V5LHJJOfl-GXnG-02-g)](http://thgtr.com/wp-content/uploads/2011/06/power_-_rlumark.png)
+[![Power Usage](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRAvGQusNCCsivv-8MljHORyIJ7v2KTxk5V5LHJJOfl-GXnG-02-g)](http://media.bestofmicro.com/1/D/278689/original/transcodingquality_power.png)
+[![Power Usage](/documentation/power_example2.jpg)](http://thgtr.com/wp-content/uploads/2011/06/power_-_rlumark.png)
