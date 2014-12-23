@@ -6,7 +6,7 @@ MobileBenchmarkTools is composed of two discrete programs: BatterySpecs and CPU&
 
 The first queries information about the battery (chemistry, capacity, cycle count, etc...) and exports everything directly to a text file in a CSV format. Some of this data is available in Window's Device Manager. However, this tool is a quick resource for those testing systems in parallel, saving time performing mundane navigation and avoiding human error related to data entry.
 
-
+![logger](/documentation/prompt.png)
 
 CPU&BatteryLogger is a much more powerful tool. It logs CPU usage (all logical cores) and battery information (current capacity, cooling mode, AC/DC status, etc...) to a CSV file periodically. 
 
