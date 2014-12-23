@@ -75,7 +75,7 @@ Global Const $interval = 5
 Global $answer = MsgBox(292, "CPU & Battery Logging v1.0", "Are you sure you want to continue start the battery logging session? " & @LF & @LF & _
 "This will cause an additional process that monitors intantaneous changes in rate of discharge and voltage every " & $interval &" seconds !!!" & @CRLF& @LF & _
 "Press [ALT] + [CTRL] + [B] to stop logging at anytime." & @CRLF& @LF & _
-"******@Copyright of Andrew C Ku, not for distribution.******")
+"******@Copyright 2009 Caleb Ku******")
 local $tCur
 ;*****************************************************
 Func _5secinterval($per)
