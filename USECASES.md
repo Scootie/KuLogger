@@ -14,7 +14,7 @@ As we slowly run down the list to remove all these extraneous variables, we are 
 
 ## Published Examples
 
-The following are a few published examples, where we investigated core technologies regarding CPU or power consumption with the scientific process in mind using the CPU&BatteryLogging program.
+The following are a few published examples, where we investigated core technologies regarding CPU or power consumption with the scientific process in mind using the CPU&BatteryLogging program. We are able to graph continuous power consumption over time in watts because we poll "remaining charge" in battery life. As we do everytime in a fixed interval, the difference is the amount of power consumped during that time period. Converting to watts is simply a matter of multiplying voltage, which we know by looking up the model from BatterySpecs or the battery label.
 
 CPU Usage
 
