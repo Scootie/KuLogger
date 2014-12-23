@@ -6,13 +6,15 @@ Generally speaking, it's a personal grip that the vast majority of technical edi
 
 A really good example is when you're testing two notebooks. One uses an Intel CPU/chipset and the other uses AMD CPU/chipset. How can you test which CPU is the most efficient at task x?
 
-The majority of people will simply use the time to time to complete task x on each notebook as their benchmark metric. This is flat out wrong. As the scope of the investigation is the CPU, you need to elimnate independent variables. 
+The majority of people will simply use the to time to complete task x on each notebook as their benchmark metric. This is flat out wrong. As the scope of the investigation is the CPU, you need to elimnate independent variables that are within your control.
 
 This is especially important in notebooks, as the screen consumes roughly 30% of the system battery life. The brightness setting though similar (say 300 cd/m^2) may actually account to a difference of several watts in power consumption depending on the LCD technology and grade of the panel. The solution is to output to a desktop monitor using VGA, DVI, or HDMI and eliminate this as a skewing variable. The hard drive/SSD should be of an identical model, or better yet use a SATA power extension cable to run it off a DC PSU. Disabling wifi due to its stochastic burst power consumption and using ethernet is another step we can take
 
 As we slowly run down the list to remove all these extraneous variables, we are creating a scenario where the final benchmark numbers will present clear scientific conclusion. Moreover, these practices adhere to the general principle in any scientific investigation.
 
 ## Published Examples
+
+The following are a few published examples, where we investigated core technologies regarding CPU or power consumption with the scientific process in mind using the CPU&BatteryLogging program.
 
 CPU Usage
 
