@@ -12,6 +12,12 @@ This is especially important in notebooks, as the screen consumes roughly 30% of
 
 As we slowly run down the list to remove all these extraneous variables, we are creating a scenario where the final benchmark numbers will present clear scientific conclusion. Moreover, these practices adhere to the general principle in any scientific investigation.
 
+## Other Applications
+
+* Speed that system recharges battery
+* Total battery life
+* Standby battery life [See C3PowerBenchmark](../../../C3PowerBenchmark/)
+
 ## Published Examples
 
 The following are a few published examples, where we investigated core technologies regarding CPU or power consumption with the scientific process in mind using the CPU&BatteryLogging program. We are able to graph continuous power consumption over time in watts because we poll "remaining charge" in battery life. As we continously do so in a fixed interval, the difference between two time periods indicates the actual amount of power consumped. Converting to watts is simply a matter of multiplying voltage, which we know by looking up the model from BatterySpecs or the battery label.
