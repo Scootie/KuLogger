@@ -20,6 +20,7 @@ CPU&BatteryLogger is a much more powerful tool. It logs CPU usage (all logical c
 ![logger](/documentation/logging.png)
 
 Currently, the program is set to log every 5 seconds, but this can be adjusted in the source and recompiled. 
+![logger](/documentation/script_pause.png) ![logger](/documentation/loggingprompt.png)
 
 DiscreteLogging is a subversion of CPU&BatteryLogging that provides fine-grain inspection of hardware. It polls data every 2 seconds, and implements a tooltip prompt combined with hotkeys to start/pause the program. This allows you to focus your benchmark investigation to a specific time window. (Pause/Start: Spacebar, ESC: Exit program/stop logging). This program was intended to be system-type neutral,as opposed to mobile focused. As such, only CPU usage (logical cores) is logged by. Battery information is only queried when you click "yes" at the startup prompt.
 
