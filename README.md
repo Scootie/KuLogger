@@ -1,8 +1,8 @@
-KuMarkTools
+KuLogger
 ==========
 For use cases and examples, please read [USECASES.md](/USECASES.md) The document explains how this program enables a scientific process approach to benchmark specific components within a mobile system.
 
-KuMarkTools is mainly comprised of two discrete programs: BatterySpecs and CPU&BatteryLogging. Together, they provide the ability to track CPU usage and power consumption over time of your Windows-based system (power information not available on desktops).
+KuLogger is mainly comprised of two discrete programs: BatterySpecs and CPU&BatteryLogging. Together, they provide the ability to track CPU usage and power consumption over time of your Windows-based system (power information not available on desktops).
 
 ![batteryinfo](/documentation/batteryspecs.png)
 
