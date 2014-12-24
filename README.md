@@ -2,7 +2,7 @@ KuLogger
 ==========
 For use cases and examples, please read [USECASES.md](/USECASES.md) The document explains how this program enables a scientific process approach to benchmark specific components within a mobile system.
 
-KuLogger is mainly comprised of two main programs:
+KuLogger is comprised of two programs:
 
 * BatterySpecs
 * CPU&BatteryLogging
