@@ -8,9 +8,9 @@ A really good example is when you're testing two notebooks. One uses an Intel CP
 
 The majority of people will simply use the to time to complete task x on each notebook as their benchmark metric. This is flat out wrong. As the scope of the investigation is the CPU, you need to elimnate independent variables that are within your control.
 
-This is especially important in notebooks, as the screen consumes roughly 30% of the system battery life. The brightness setting though similar (say 300 cd/m^2) may actually account to a difference of several watts in power consumption depending on the LCD technology and grade of the panel. The solution is to output to a desktop monitor using VGA, DVI, or HDMI and eliminate this as a skewing variable. The hard drive/SSD should be of an identical model, or better yet use a SATA power extension cable to run it off a DC PSU. Disabling wifi due to its stochastic burst power consumption and using ethernet is another step we can take
+This is especially important in notebooks, as the screen consumes roughly 30% of the system battery life. It's not enough to equalize screen brightness on both systems. The brightness setting though similar (say 300 cd/m^2) may actually account to a difference of several watts in power consumption depending on the LCD technology and grade of the panel. The solution is to output to a desktop monitor using VGA, DVI, or HDMI and eliminate this as a skewing variable. The hard drive/SSD should be of an identical model, or better yet use a SATA power extension cable to run it off a DC PSU. Disabling wifi due to its stochastic burst power consumption and using ethernet is another step we can take.
 
-As we slowly run down the list to remove all these extraneous variables, we are creating a scenario where the final benchmark numbers will present clear scientific conclusion. Moreover, these practices adhere to the general principle in any scientific investigation.
+As we slowly run down the list to remove all these extraneous factors, we are creating a scenario where the final benchmark numbers will present clear scientific conclusion. Moreover, these practices adhere to the general principle in any scientific investigation.
 
 ## Other Applications
 
