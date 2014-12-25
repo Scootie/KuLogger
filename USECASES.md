@@ -1,6 +1,6 @@
 ## Scientific Process
 
-Generally speaking, it's a personal grip that the vast majority of technical editors, reviewers, analyst misrepresent their trade. Or are at the very least inaccurate in terms of the approach that many people take to technical analysis. While they assert product x is better than product y, they arrive at such a conclusion often without following the fundamental underlying principle of the scientific process: [ceteris paribus](http://en.wikipedia.org/wiki/Ceteris_paribus). This is a latin phrase that roughly translates "all other things being equal." It's a keystone theme that runs through all things in math and science.
+It's a personal grip that the vast majority of technical editors, reviewers, analyst misrepresent their trade. Or are at the very least inaccurate in terms of the approach that many people take to technical analysis. While they assert product x is better than product y, this conclusion is often reached without following the fundamental underlying principle of the scientific process: [ceteris paribus](http://en.wikipedia.org/wiki/Ceteris_paribus). This is a latin phrase that roughly translates "all other things being equal." It's a keystone theme that runs through all things in math and science.
 
 ## Real-World Example
 
